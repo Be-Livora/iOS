@@ -203,7 +203,7 @@ SPEC CHECKSUMS:
   EMTLoadingIndicator: 0d3256b0de3e6ba5ab17048acc7aa93af34e48d3
   Eureka: fadaa9fa3d6e402d3c60f78f24edf3d7bafc9c29
   GRDB.swift: 682e07f771a9100f0bdf40fd0bed57b83ca08e29
-  HAKit: 347164dfd7b727986812902288b904f54bdf9de3
+  HAKit: 30f74f3cd09cfa4a46eb4bcb26b0d950ffad4240
   Improv-iOS: 8973990c1b1f3e3aed7fc600c8efce95359cadd0
   KeychainAccess: c0c4f7f38f6fc7bbe58f5702e25f7bd2f65abf51
   MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
@@ -227,4 +227,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: ccc3cf2c89569a005dec358e6c59d8bd3d6900f0
 
-COCOAPODS: 1.15.2
+COCOAPODS: 1.16.2
